@@ -22,6 +22,12 @@
             <version>2.4.13</version>
         </dependency>
 
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib-nodep</artifactId>
+            <version>3.1</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.spockframework/spock-core -->
         <dependency>
             <groupId>org.spockframework</groupId>
